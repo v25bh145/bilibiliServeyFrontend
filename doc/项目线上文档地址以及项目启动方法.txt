@@ -1,0 +1,9 @@
+前后端接口文档: https://diagnostic-single-a9c.notion.site/4f92156be0bd44deacd229a87bc9429a
+
+爬虫参数返回以及调用方式: https://diagnostic-single-a9c.notion.site/d19743f1964f4747a84e0e78f5fa4002
+
+数据表设计: https://diagnostic-single-a9c.notion.site/a4d2adf693994a0ba585809033f5bbde
+
+前端运行：npm run serve
+
+后端启动：首先在config中配置服务器，之后运行：node app.js
